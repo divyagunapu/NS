@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "datatype": "^1.0.0",
+    "express": "^4.19.2",
+    "mssql": "^10.0.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.0",
+    "mysql2-promise": "^0.1.4",
+    "nodemailer": "^6.9.14",
+    "undici-types": "^6.16.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
